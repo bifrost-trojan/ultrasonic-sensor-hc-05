@@ -1,9 +1,8 @@
 # Ultrasonic Sensor { hc-05 }
 Interfacing Ultrasonic Sensor with Arduino And Raspberry Pi
 <p align="center">
- <img  hright=200 src="https://user-images.githubusercontent.com/85047510/125336575-93773100-e36b-11eb-9fc9-098799220a56.jpg">
+ <img  hright=200 src="https://user-images.githubusercontent.com/85047510/128692266-efc1a6fb-5362-4c3a-8b97-738b479bfa7b.jpg">
 </p>
-
 <hr>
 <h1 align=center>🛠 Tech Stack</h1>
 <h3 align=left%>:one: Arduino(Any Version will Work)</h3>
