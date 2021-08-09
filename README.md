@@ -3,11 +3,10 @@
 </p>
 <hr>
 <h1 align=center>🛠 Tech Stack</h1>
-<h3 align=left%>:one: Arduino(Any Version will Work)</h3>
-<h3 align=left>:two: Ardunio IDE</h3>
-<h3 align=left>:three: IR Receiver{TSOP1838}</h3>
-<h3 align=left>:four: Wires</h3>
-<h3 align=left>:five: BreadBoard/ZeroBoard</h3>
+<h3 align=left%>:one: Arduino(Any Version will Work) or Raspberry Pi (Any Version)</h3>
+<h3 align=left>:two: UltraSonic Sensor {hc-05}</h3>
+<h3 align=left>:three: Wires</h3>
+<h3 align=left>:four: BreadBoard/ZeroBoard</h3>
 
 <br>
 <h1 align=center>⚡ Circuit Diagram</h1>
